@@ -4,7 +4,6 @@ import {
   Button,
   useDisclosure,
   Image,
-  createBreakpoints,
 } from '@chakra-ui/react';
 import { RiAddFill } from 'react-icons/ri';
 

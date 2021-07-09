@@ -1,10 +1,4 @@
-import {
-  Box,
-  Flex,
-  Button,
-  useDisclosure,
-  Image,
-} from '@chakra-ui/react';
+import { Box, Flex, Button, useDisclosure, Image } from '@chakra-ui/react';
 import { RiAddFill } from 'react-icons/ri';
 
 import { ModalAddImage } from './Modal/AddImage';
